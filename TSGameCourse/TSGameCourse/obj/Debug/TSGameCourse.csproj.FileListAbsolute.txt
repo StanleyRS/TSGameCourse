@@ -1,0 +1,9 @@
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\bin\Debug\TSGameCourse.exe.config
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\bin\Debug\TSGameCourse.exe
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\bin\Debug\TSGameCourse.pdb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\obj\Debug\TSGameCourse.csprojResolveAssemblyReference.cache
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\obj\Debug\TSGameCourse.Form1.resources
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\obj\Debug\TSGameCourse.Properties.Resources.resources
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\obj\Debug\TSGameCourse.csproj.GenerateResource.Cache
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\obj\Debug\TSGameCourse.exe
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\TSGameCourse\TSGameCourse\obj\Debug\TSGameCourse.pdb
